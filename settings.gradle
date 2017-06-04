@@ -1,0 +1,5 @@
+rootProject.name = 'todo1'
+include 'Dao'
+include 'Service'
+include 'web'
+
